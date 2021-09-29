@@ -156,6 +156,8 @@ namespace AudioGenetator
 
         private void btn_cargarXML_Click(object sender, EventArgs e)
         {
+            this.tb_output.Text = "";
+
             if (!this.cargarXmlCheckBox.Checked)
             {
                 this.inPutOutOutText_tabControl.SelectedTab = this.tabPage_output;

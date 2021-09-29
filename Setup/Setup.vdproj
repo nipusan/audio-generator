@@ -100,6 +100,14 @@
             "PrerequisitesLocation" = "2:1"
             "Url" = "8:"
             "ComponentsUrl" = "8:"
+                "Items"
+                {
+                    "{EDC2488A-8267-493A-A98E-7D9C3B36CDF3}:.NETFramework,Version=v4.7.2"
+                    {
+                    "Name" = "8:Microsoft .NET Framework 4.7.2 (x86 and x64)"
+                    "ProductCode" = "8:.NETFramework,Version=v4.7.2"
+                    }
+                }
             }
         }
     }
@@ -280,7 +288,7 @@
         "Name" = "8:Microsoft Visual Studio"
         "ProductName" = "8:Audio Generator"
         "ProductCode" = "8:{E7B2BEC5-7019-45B4-BD3D-3A1C0AB8A8C3}"
-        "PackageCode" = "8:{9900CE7B-B7B0-4E0A-9156-9E1376EDD7BA}"
+        "PackageCode" = "8:{85AF53CA-A930-4DA4-9C04-3C4E3D160BDF}"
         "UpgradeCode" = "8:{B7685344-8A2A-4E56-A0BA-8623C512C996}"
         "AspNetVersion" = "8:2.0.50727.0"
         "RestartWWWService" = "11:FALSE"
@@ -402,7 +410,7 @@
         {
             "{970C0BB2-C7D0-45D7-ABFA-7EC378858BC0}:_312F34ACD26449B3BF423EC111C1173D"
             {
-            "Name" = "8:AudioGenetator"
+            "Name" = "8:Audio Genetator"
             "Arguments" = "8:"
             "Description" = "8:"
             "ShowCmd" = "3:1"
@@ -416,7 +424,7 @@
             }
             "{970C0BB2-C7D0-45D7-ABFA-7EC378858BC0}:_58AF0EC6DEBB44F4BED0E6DECBF31DC8"
             {
-            "Name" = "8:AudioGenetator"
+            "Name" = "8:Audio Genetator"
             "Arguments" = "8:"
             "Description" = "8:"
             "ShowCmd" = "3:1"

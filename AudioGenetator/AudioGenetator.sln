@@ -1,0 +1,28 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31717.71
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AudioGenetator", "AudioGenetator.csproj", "{139CA825-0CB9-40A9-A690-5F9BD74975EF}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Setup", "..\Setup\Setup.vdproj", "{B65503C5-CDD7-4F02-A6B9-DA5894A648B0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{139CA825-0CB9-40A9-A690-5F9BD74975EF}.Debug|Any CPU.ActiveCfg = Release|Any CPU
+		{139CA825-0CB9-40A9-A690-5F9BD74975EF}.Debug|Any CPU.Build.0 = Release|Any CPU
+		{139CA825-0CB9-40A9-A690-5F9BD74975EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{139CA825-0CB9-40A9-A690-5F9BD74975EF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B65503C5-CDD7-4F02-A6B9-DA5894A648B0}.Debug|Any CPU.ActiveCfg = Debug
+		{B65503C5-CDD7-4F02-A6B9-DA5894A648B0}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C9EAF831-6A1F-4541-9376-8FD851A75ABB}
+	EndGlobalSection
+EndGlobal
